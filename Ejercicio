@@ -1,0 +1,49 @@
+<h1>La idea de este ejercicio que practiquen comandos en la consola y revisar que tengan instalado VSCode y git.<h1>
+
+
+Deberán ir anotando los comandos y pasos que usen en cada paso.
+
+Abrir la consola e imprimir la ubicación actual.
+<!--En mi caso que tengo una mac use los comandos: COMMAND+BARRRA DE ESPACIO luego busque la terminar CMD, aperturando esta una ves abri la Terminal,ejecute el siguiente comando:pwd --> 
+
+Crear una carpeta llamada ejercicios en el escritorio desde la consola, si no estas 
+en la ruta del escritorio, muevete a ella.
+<!-- Para crear una carpeta ejercicios en el escritorio textie en la teminar el siguiente texto: cd ~/Desktop-->
+
+Cambiar la ubicación a la nueva carpeta que crearon.
+<!-- ingrese el texot en la terminal: cd ejercicios-->
+
+Abrir la carpeta con VSCode.
+<!-- instale visual studio code prosegui a abrirla--->
+
+En VSCode crear una carpeta ejercicio1.
+<!--Dentro dentro de VSCode, en la barra lateral izquierda y seleccione "New Folder" (Nueva carpeta).-->
+
+Crear un archivo llamado README.md (vacío) dentro de la carpeta ejercicio1.
+<!--Dentro de VSCode, hice click derecho en la carpeta "ejercicio1" en la barra lateral izquierda y seleccione "New File" (Nuevo archivo)-->
+
+Configurar nombre e email globalmente en git.
+<!-- Ejecute los siguientes comandos en la Terminal para configurar mi nombre y correo electrónico globalmente en Git usando: git config --global user.name "Nombre"
+git config --global user.email "arevaloroldan31@gmail.com"-->
+
+
+Inicializar el repositorio de git desde la línea de comandos desde la carpeta ejercicios.
+<!--Inicie el repositorio de git desde la línea de comandos desde la carpeta "ejercicios":
+
+Ejecute el siguiente comando para inicializar el repositorio de Git en la carpeta "ejercicios":git init-->
+
+Crear un primer commit con el mensaje “Versión Inicial”.
+<!--git add .
+git commit -m "Versión Inicial" -->
+Agregar al README.md los comandos que ejecutaron en cada paso.
+<!--Agregue al archivo "README.md" los comandos que ejecutaron en cada paso:
+
+Abri el archivo "README.md" en VSCode.
+Dentro del archivo, agrege los comandos que ejecute en cada paso junto con esta descripcion donde realize cada paso a seguir.-->
+
+Crear un nuevo commit con el mensaje “Agrega solución primer ejercicio”
+<!-- git add . /  git commit -m "Versión Inicial"-->
+
+Publicar a Github en un repositorio llamado aspirantes-mir-ejercicio-1.
+<!-- cree un repositorio en gibhub-->
+Enviar el link del repositorio en Github a su mentor(a).
